@@ -1,2 +1,1 @@
-print("Bot Starting...")
-8900200837:AAEyJGglSaoPTKQrik3HmSLdFKDuO-DmloI
+git clone https://github.com/Sadiq-1234/telegram-bot.git
